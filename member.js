@@ -1,4 +1,4 @@
-function skillmember() {
+function skillsMember() {
     var member = {
         name: 'John',
         age: 25,
